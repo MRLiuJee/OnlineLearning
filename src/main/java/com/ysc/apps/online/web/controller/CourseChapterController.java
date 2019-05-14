@@ -17,6 +17,8 @@ import com.ysc.apps.online.util.MsgResponse;
 @RestController
 @RequestMapping("/courseChapter")
 public class CourseChapterController {
+
+
 	
 	@Autowired
 	private ICourseChapterService chapterService;
