@@ -7,4 +7,6 @@ import org.springframework.context.annotation.Configuration;
 @MapperScan("com.ysc.apps.online.dao")
 public class MybatisConfig {
 
+
+
 }
